@@ -56,9 +56,6 @@ now you can run the project
   $ python main.py
 ```
 
-## 🎞 Sample output:
-
-<img src="./images/Demo/handsketch.gif" alt="handsketch gif" >
 
 ## 🤝🏻 Contributing
 
