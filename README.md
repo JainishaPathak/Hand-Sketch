@@ -2,7 +2,7 @@
 
 HandSketch is a program that allows you to draw on a virtual whiteboard using your hand as a brush. The program uses a camera to detect the position of your hand and tracks the movement of your fingers to draw lines of different colors and sizes.
 
-![](./images/Thumbnail.png)
+
 
 ## ✨ Features
 - Hand gesture recognition for drawing
@@ -20,8 +20,7 @@ HandSketch is a program that allows you to draw on a virtual whiteboard using yo
 - Mediapipe (used for hand detection and tracking)
 - NumPy (used for creating the canvas for drawing)
 
-## 🔴 Demo 
-https://github.com/VISHRUT225/Hand-Sketch/raw/main/images/Demo/demo.mp4
+
 
 
 ## :key: Prerequisites
